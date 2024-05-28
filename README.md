@@ -1,26 +1,8 @@
 # EKF
 Python implementation of Extended Kalman Filter (EKF)
-![studentdata4 mat_filtered](https://github.com/miheer-diwan/EKF/assets/79761017/1a5c348d-920f-4b80-9652-c45e10348f25)
-![studentdata3 mat_traj](https://github.com/miheer-diwan/EKF/assets/79761017/0bc2df94-5c97-4bbc-a4fe-f6dbf519a8dd)
-![studentdata3 mat_ori](https://github.com/miheer-diwan/EKF/assets/79761017/f1921907-4672-488e-8ab8-9227f6fc73fa)
-![studentdata3 mat_filtered](https://github.com/miheer-diwan/EKF/assets/79761017/4094832e-3600-4931-b6da-b87d64119f03)
-![studentdata2 mat_traj](https://github.com/miheer-diwan/EKF/assets/79761017/84744d14-388c-4575-a999-a80ff3780215)
-![studentdata2 mat_ori](https://github.com/miheer-diwan/EKF/assets/79761017/25d51ff3-0a59-4ec9-97a9-3407e0933513)
-![studentdata2 mat_filtered](https://github.com/miheer-diwan/EKF/assets/79761017/18e695fc-b72c-42c0-8eca-65fda5337057)
-![studentdata1 mat_traj](https://github.com/miheer-diwan/EKF/assets/79761017/6099f1ff-7628-4917-a55a-a34dd9f6cc8b)
-![studentdata1 mat_ori](https://github.com/miheer-diwan/EKF/assets/79761017/6213e06f-e52d-4500-b20d-aab04c0e1f73)
-![studentdata1 mat_filtered](https://github.com/miheer-diwan/EKF/assets/79761017/81d48b9c-9078-4d88-8d18-3f6c2540e748)
-![studentdata0 mat_traj](https://github.com/miheer-diwan/EKF/assets/79761017/407229ef-4784-4ce2-be07-1e0f1f4e3b66)
-![studentdata0 mat_ori](https://github.com/miheer-diwan/EKF/assets/79761017/30060456-a49a-4704-ba5b-6e1b0a218bef)
-![studentdata0 mat_filtered](https://github.com/miheer-diwan/EKF/assets/79761017/881e258d-314d-4317-ac81-7621923f5e73)
-![studentdata7 mat_traj](https://github.com/miheer-diwan/EKF/assets/79761017/a82bfd7b-ed90-4abd-9657-5dba6ccc59f0)
-![studentdata7 mat_ori](https://github.com/miheer-diwan/EKF/assets/79761017/12505319-c728-439c-abd7-04875e56b1eb)
-![studentdata7 mat_filtered](https://github.com/miheer-diwan/EKF/assets/79761017/5b6fe1f3-cba3-4162-be5f-a9509511f0e2)
-![studentdata6 mat_traj](https://github.com/miheer-diwan/EKF/assets/79761017/00d61014-634e-4927-8aee-1fa1b0f15ea5)
-![studentdata6 mat_ori](https://github.com/miheer-diwan/EKF/assets/79761017/077d062d-c5e0-481d-a502-e40b354267ff)
-![studentdata6 mat_filtered](https://github.com/miheer-diwan/EKF/assets/79761017/8a922215-62c2-4580-8a78-0746eb6cf40a)
-![studentdata5 mat_traj](https://github.com/miheer-diwan/EKF/assets/79761017/4debf225-f74d-4ad4-8688-53550ad33ae8)
-![studentdata5 mat_ori](https://github.com/miheer-diwan/EKF/assets/79761017/3498495c-9257-4387-8ed2-9fcd05147b4f)
-![studentdata5 mat_filtered](https://github.com/miheer-diwan/EKF/assets/79761017/50ba558a-025f-456b-a29a-52209085cc23)
-![studentdata4 mat_traj](https://github.com/miheer-diwan/EKF/assets/79761017/a4d07832-829c-440b-8e3a-c19e2d592a10)
-![studentdata4 mat_ori](https://github.com/miheer-diwan/EKF/assets/79761017/6e2b3745-70c4-44c2-845a-fec83bf4439c)
+
+### Trajectory Plot:
+![studentdata2 mat_filtered](https://github.com/miheer-diwan/EKF/assets/79761017/891a7324-9c5e-4476-a50a-11e31eaa7e2b)
+
+### Orientation Plot:
+![studentdata2 mat_ori](https://github.com/miheer-diwan/EKF/assets/79761017/eea16818-deef-4844-b473-0f3d264ced29)
