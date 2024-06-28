@@ -2,7 +2,7 @@
 Robust Quadrotor pose estimation using  vision-based observation model and EKF
 
 
-### Trajectory Plot:
+### 3D Trajectory Plot:
 ![studentdata2 mat_filtered](https://github.com/miheer-diwan/EKF/assets/79761017/891a7324-9c5e-4476-a50a-11e31eaa7e2b)
 
 ### Orientation Plot:
