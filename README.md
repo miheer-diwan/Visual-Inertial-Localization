@@ -1,5 +1,7 @@
 # Vision-Based-Localization-Using-Nonlinear-Kalman-Filters
-Robust Quadrotor pose estimation using  vision-based observation model and EKF
+Robust Quadrotor pose estimation using a vision-based observation model and Extended Kalman Filter (EKF)
+
+Check the [Report]() for detailed explanations and results. 
 
 
 ### 3D Trajectory Plot:
